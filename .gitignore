@@ -128,7 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
 #Pycharm crap
 .idea
 .idea/
 .idea/*
+
